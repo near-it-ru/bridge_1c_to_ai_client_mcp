@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Уязвимость / приватное сообщение
+    url: https://github.com/near-it-ru/bridge_1c_to_ai_client_mcp/security/advisories/new
+    about: Не публикуйте секреты и неустранённые уязвимости в общедоступном issue.

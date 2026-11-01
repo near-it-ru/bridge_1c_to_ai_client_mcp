@@ -1,0 +1,26 @@
+# User connection bundles: never commit actual files
+1c_bridge_client_config.json
+1c_bridge_client_key.env
+ИНСТРУКЦИЯ (для агента).md
+.1cbridge/
+.env
+.env.*
+*.env
+*.key
+*.pem
+*.pfx
+*.p12
+secrets/
+
+# Build outputs and local tools
+bin/
+dist/
+coverage/
+*.test
+*.exe
+*.log
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+__pycache__/
